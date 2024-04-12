@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyaa2&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyaa2" /> </p>
 
-- 🔭 Worked as **WEB DEVELOPMENT INTERN**
-
-- 🌱 Currently exploring the jaw-dropping features of **Artificial Intelligence & Machine Learning**
-
 <div align="center">
     <h1>👩‍💻 Web Developer | Shreya Shome</h1>
     <p>Passionate about creating seamless web experiences and turning ideas into reality. I specialize in front-end development, but I'm also well-versed in back-end technologies. Let's build something amazing together!</p>
@@ -11,6 +7,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+
+- 🔭 Worked as **WEB DEVELOPMENT INTERN**
+
+- 🌱 Currently exploring the jaw-dropping features of **Artificial Intelligence & Machine Learning**
 
 ## 🌟 Skills
 
